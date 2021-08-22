@@ -68,7 +68,10 @@ workshopgroup
               </span>
             </div>
             <div class="m-3">
-              {{speaker.abstract|safe}}
+              <b>Keynote Abstract:</b> {{speaker.abstract|safe}}
+            </div>
+            <div class="m-3">
+              <b>Speaker Bio:</b> {{speaker.bio|safe}}
             </div>
           </div>
         </div>
@@ -155,6 +158,7 @@ workshopgroup
     data-interval="false"
   >
     <div class="carousel-inner cards" role="listbox">
+
       {% for openreview in papers %}
       {% if loop.index % 3 == 1 %}
       <div class="carousel-item {% if loop.index == 1%} active{% endif %}">
@@ -173,6 +177,7 @@ workshopgroup
                 {% endfor %}
               </h6>
               <center>
+
                 <img
                   class="cards_img lazy-load-img"
                   data-src="https://iclr.github.io/iclr-images/{{openreview.UID}}.png"

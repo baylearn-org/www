@@ -1,0 +1,17 @@
+{% set active_page = "Privacy Policy" %}
+{% set page_title = "Privacy Policy" %}
+{% extends "base.html" %}
+
+
+{% block content %}
+<!-- <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
+
+    {{ components.section("Privacy Policy") }}
+    Our Privacy Policy explains how information is collected, used, and disclosed by BayLearn, with respect to your access and use of our services, through our website (“Website”) or in connection with third party services.
+    {{ components.faqgroup(PrivacyPolicy) }}
+
+
+</div> -->
+
+{{ privacy_policy | markdown }}
+{% endblock %}

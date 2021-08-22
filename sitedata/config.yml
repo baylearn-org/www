@@ -1,25 +1,23 @@
-name: MiniConf
-tagline: MINICONF <br> CONFERENCE <br> MANAGEMENT
-date: May 2020
-citation_date: May 2020
-proceedings_title: Proceedings of the First MiniCon Conference
+name: BayLearn
+tagline: BayLearn - Machine Learning Symposium<br>San Francisco Bay Area
+date: Oct 28, 2021
 analytics: UA-
 logo:
-  image: static/images/MiniConf.png
+  image: static/images/baylearn-logo.jpg
   width: 180px
   height: auto
 # uncomment the following line to show the site title next to the logo image
 # site_title: MiniConf
 page_title:
-  prefix: 'MiniConf 2020'
+  prefix: 'BayLearn - Machine Learning Symposium - 2021'
   separator: ': '
-background_image: static/images/main.jpg
-organization: MiniConf Organization Committee
+background_image: static/images/sf-background.jpg
+organization: BayLearn Organization Committee
 
-# Remove or change to your chat server.
-chat_server: miniconf.sloppy.zone
-default_presentation_id: 38922815
-default_poster_pdf: /static/images/GLTR_poster.pdf
+## Remove or change to your chat server.
+# chat_server: miniconf.sloppy.zone
+# default_presentation_id: 38922815
+# default_poster_pdf: /static/images/GLTR_poster.pdf
 
 
 # Configuration for auth

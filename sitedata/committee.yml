@@ -1,11 +1,42 @@
 committee:
-  - role: Developer
-    name: Alexander Rush
-    aff: Cornell Tech, Hugging Face
-    im: https://avatars0.githubusercontent.com/u/35882?s=400&u=8f382f638b31f13a4754656140256241121c5916&v=4
-    tw: srush_nlp
-  - role: Developer
-    name: Hendrik Strobelt
-    aff: MIT-IBM Watson AI Lab
-    tw: hen_str
-    im: https://avatars1.githubusercontent.com/u/950990?s=460&u=fba00c4d7c79fd9e4b83a15394dd1bbe7b7d3df5&v=4
+  - role: Organizer
+    name: Jerremy Holland
+    aff: Apple
+    tw: jerremy
+  - role: Organizer
+    name: Jean-Francois Paiement
+    aff: AT&T Research
+    tw: BayLearnOrg
+  - role: Organizer
+    name: Sudarshan Lamkhede
+    aff: Netflix Research
+    tw: __sudarshan__
+    im: https://drive.google.com/file/d/1VKH5Dljm9lYR8uOhEdVmyo-fHVe7QFE1/view?usp=sharing
+  - role: Organizer
+    name: Dumitru Erhan
+    aff: Google Brain
+    tw: doomie
+  - role: Organizer
+    name: Isabelle Guyon
+    aff: ChaLearn and U. Paris-Saclay
+    tw: BayLearnOrg
+  - role: Advisor
+    name: Samy Bengio
+    aff: Apple
+    tw:
+  - role: Advisor
+    name: David Grangier
+    aff: Google Research
+    tw:
+  - role: Advisor
+    name: Alexei Pozdnukhov
+    aff: Sidewalk Labs
+    tw:
+  - role: Advisor
+    name: Mohak Shah
+    aff: LG Research
+    tw:
+  - role: Advisor
+    name: Alice Xiang
+    aff: Partnership on AI
+    tw:
