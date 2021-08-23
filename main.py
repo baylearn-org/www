@@ -61,7 +61,7 @@ def index():
 
 @app.route("/favicon.ico")
 def favicon():
-    return send_from_directory(site_data_path, "golden-gate.png")
+    return send_from_directory(site_data_path, "favicon.ico")
 
 
 # TOP LEVEL PAGES
@@ -98,11 +98,18 @@ def code_of_conduct():
     data["code_of_conduct"] = open("code_of_conduct.md").read()
     return render_template("code_of_conduct.html", **data)
 
-@app.route("/papers.html")
-def papers():
+# @app.route("/papers.html")
+# def papers():
+#     data = _data()
+#     data["papers"] = site_data["papers"]
+#     return render_template("papers.html", **data)
+
+@app.route("/submissions.html")
+def submissions():
     data = _data()
     data["papers"] = site_data["papers"]
-    return render_template("papers.html", **data)
+    return render_template("submissions.html", **data)
+
 
 @app.route("/keynotes.html")
 def speaker():
@@ -111,31 +118,10 @@ def speaker():
     return render_template("keynotes.html", **data)
 
 
-@app.route("/paper_vis.html")
-def paper_vis():
+@app.route("/sponsors.html")
+def sponsors():
     data = _data()
-    return render_template("papers_vis.html", **data)
-#
-#
-# @app.route("/calendar.html")
-# def schedule():
-#     data = _data()
-#     data["day"] = {
-#         "speakers": site_data["speakers"],
-#         "highlighted": [
-#             format_paper(by_uid["papers"][h["UID"]]) for h in site_data["highlighted"]
-#         ],
-#     }
-#     return render_template("schedule.html", **data)
-#
-#
-# @app.route("/workshops.html")
-# def workshops():
-#     data = _data()
-#     data["workshops"] = [
-#         format_workshop(workshop) for workshop in site_data["workshops"]
-#     ]
-#     return render_template("workshops.html", **data)
+    return render_template("sponsors.html", **data)
 
 
 def extract_list_field(v, key):
@@ -183,69 +169,6 @@ def format_workshop(v):
     }
 
 
-# ITEM PAGES
-
-
-# @app.route("/poster_<poster>.html")
-# def poster(poster):
-#     uid = poster
-#     v = by_uid["papers"][uid]
-#     data = _data()
-#     data["paper"] = format_paper(v)
-#     return render_template("poster.html", **data)
-#
-#
-
-#
-#
-# @app.route("/workshop_<workshop>.html")
-# def workshop(workshop):
-#     uid = workshop
-#     v = by_uid["workshops"][uid]
-#     data = _data()
-#     data["workshop"] = format_workshop(v)
-#     return render_template("workshop.html", **data)
-
-# @app.route("/registration.html")
-# def registration():
-#     data = _data()
-#     return render_template("registration.html", **data)
-
-# @app.route("/schedule.html")
-# def schedule():
-#     data = _data()
-#     return render_template("schedule.html", **data)
-
-# @app.route("/submissions.html")
-# def submissions():
-#     data = _data()
-#     return render_template("submissions.html", **data)
-
-# @app.route("/keynotes.html")
-# def keynotes():
-#     data = _data()
-#     return render_template("keynotes.html", **data)
-
-@app.route("/sponsors.html")
-def sponsors():
-    data = _data()
-    return render_template("sponsors.html", **data)
-
-# @app.route("/code_of_conduct.html")
-# def code_of_conduct():
-#     data = _data()
-#     return render_template("code_of_conduct.html", **data)
-
-# @app.route("/privacy_policy.html")
-# def privacy():
-#     data = _data()
-#     return render_template("privacy_policy.html", **data)
-
-# @app.route("/previous.html")
-# def previous():
-#     data = _data()
-#     return render_template("previous.html", **data)
-
 # FRONT END SERVING
 
 
@@ -273,12 +196,10 @@ def serve(path):
 
 @freezer.register_generator
 def generator():
-    for paper in site_data["papers"]:
-        yield "poster", {"poster": str(paper["UID"])}
+    # for paper in site_data["papers"]:
+    #     yield "poster", {"poster": str(paper["UID"])}
     for speaker in site_data["speakers"]:
         yield "speaker", {"speaker": str(speaker["UID"])}
-    for workshop in site_data["workshops"]:
-        yield "workshop", {"workshop": str(workshop["UID"])}
 
     for key in site_data:
         yield "serve", {"path": key}

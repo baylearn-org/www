@@ -18,7 +18,7 @@ Registration link will be posted here when registration opens.
 Registration for BayLearn is *free* and on a *first come first serve basis.*
 
 ### Mailing List
-[TODO] Join the BayLearn Mailing List
+Please join the [BayLearn Mailing List](https://list.baylearn.org/mailer/subscription?f=aK11NFcwFHDsqyg2KtuWT9EADnAgk1IC6JmBfVDyvslA1pA3IFZ0eb1CNHk3hiPbn9uo8h06Xpg9uJpNfDV7Eg&sa=D&sntz=1&usg=AFQjCNFY4nELZp_qKIPqOxRyfww6bTArnQ) for receiving symposium related announcements.
 
 ### Contact
 info at baylearn dot org

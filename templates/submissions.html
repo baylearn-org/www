@@ -1,0 +1,11 @@
+{% set page_title = "Submissions" %}
+{% extends "base.html" %}
+{% block content %}
+
+<!-- papers -->
+{{ components.section("Submissions") }}
+<div class="speakers">
+  {{ components.papersgroup(papers) }}
+</div>
+
+{% endblock %}
