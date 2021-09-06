@@ -22,3 +22,14 @@ Please join the [BayLearn Mailing List](https://list.baylearn.org/mailer/subscri
 
 ### Contact
 info at baylearn dot org
+
+### Organizers
+  * **Jerremy Holland**, Apple  <a href="https://www.linkedin.com/in/jerremy/"><img src="static/images/linkedin-logo.png" alt="Jerremy's LinkedIn Profile" width="20" padding="5"/></a> <a href="https://twitter.com/jerremy"><img src="static/images/twitter-logo-square.png" alt="Jerremy's Twitter" width="20" padding="5"/></a>
+  * **Jean-François Paiement**, AT&T Research <a href="https://www.linkedin.com/in/jean-francois-paiement-75a40217/"><img src="static/images/linkedin-logo.png" alt="Jerremy's LinkedIn Profile" width="20" padding="5"/></a>
+  * **Sudarshan Lamkhede**, Netflix Research !<a href="https://www.linkedin.com/in/sudarshanlamkhede/"><img src="static/images/linkedin-logo.png" alt="Jerremy's LinkedIn Profile" width="20" padding="5"/></a> <a href="https://twitter.com/__sudarshan__"><img src="static/images/twitter-logo-square.png" alt="Jerremy's Twitter" width="20" padding="5"/></a>
+  * **Isabelle Guyon**, ChaLearn and U. Paris-Saclay <a href="https://www.linkedin.com/in/isabelle-guyon-aa371170/"><img src="static/images/linkedin-logo.png" alt="Jerremy's LinkedIn Profile" width="20" padding="5"/></a>
+  * **Dumitru Erhan**, Google Brain <a href="https://www.linkedin.com/in/dumitruerhan/"><img src="static/images/linkedin-logo.png" alt="Jerremy's LinkedIn Profile" width="20" padding="5"/></a> <a href="https://twitter.com/doomie"><img src="static/images/twitter-logo-square.png" alt="Jerremy's Twitter" width="20" padding="5"/></a>
+### Program Committee
+  * **Samy Bengio**, Apple <a href="https://www.linkedin.com/in/bengio/"><img src="static/images/linkedin-logo.png" alt="Jerremy's LinkedIn Profile" width="20" padding="5"/></a>
+  * **Mohak Shah**, LG Electronics <a href="https://www.linkedin.com/in/mohakshah1/"><img src="static/images/linkedin-logo.png" alt="Jerremy's LinkedIn Profile" width="20" padding="5"/></a>
+  * **Alice Xiang**, Partnership on AI <a href="https://www.linkedin.com/in/alice-xiang-3832aa18/"><img src="static/images/linkedin-logo.png" alt="Jerremy's LinkedIn Profile" width="20" padding="5"/></a> <a href="https://twitter.com/alicexiang"><img src="static/images/twitter-logo-square.png" alt="Jerremy's Twitter" width="20" padding="5"/></a>
