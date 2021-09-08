@@ -6,14 +6,14 @@ We encourage the submission of poster abstracts. Acceptable material includes wo
 
   * Abstract submission deadline: July 9th, 11:59pm PDT
   * Acceptance notification: September 3, 2021
-  * Registration opens: September 7, 2021
+  * [**Registration**](https://baylearn2021.splashthat.com/): September 7, 2021 through October 26, 2021
   * Virtual Symposium: October 28, 2021
 
 ### Registration
 
-Registration is not open yet.
+Registration is now open.
 
-Registration link will be posted here when registration opens.
+Please register via [Splashthat event page](https://baylearn2021.splashthat.com/)
 
 Registration for BayLearn is *free* and on a *first come first serve basis.*
 

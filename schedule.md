@@ -22,7 +22,7 @@ table {
 <tr>
   <td> 9:00 am - 9:15 am
   <td><p>
-  <td> Welcome to BayLearn 2020
+  <td> Welcome to BayLearn 2021
   <td><p>
   <td> To be posted
 </tr>
