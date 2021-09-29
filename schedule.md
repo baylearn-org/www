@@ -28,7 +28,7 @@ table {
 </tr>
 <tr><td><hr><td><p><td><hr><td><p><td><hr></tr>
 <tr>
-  <td> 9:15 am - 10:00 am
+  <td> 9:15 am - 9:55 am
   <td><p>
   <td> Keynote # 1
   <td><p>
@@ -36,7 +36,7 @@ table {
 </tr>
 <tr><td><hr><td><p><td><hr><td><p><td><hr></tr>
 <tr>
-  <td> 10:00 am - 10:10 am
+  <td> 9:55 am - 10:10 am
   <td><p>
   <td> Keynote # 1 Q & A
   <td><p>
@@ -52,7 +52,7 @@ table {
 </tr>
 <tr><td><hr><td><p><td><hr><td><p><td><hr></tr>
 <tr>
-  <td> 10:30 am - 11:00 am
+  <td> 10:30 am - 11:10 am
   <td><p>
   <td> Keynote # 2
   <td><p>
@@ -60,7 +60,7 @@ table {
 </tr>
 <tr><td><hr><td><p><td><hr><td><p><td><hr></tr>
 <tr>
-  <td> 11:00 am - 11:15 am
+  <td> 11:10 am - 11:25 am
   <td><p>
   <td> Keynote # 2 Q & A
   <td><p>
@@ -68,7 +68,7 @@ table {
 </tr>
 <tr><td><hr><td><p><td><hr><td><p><td><hr></tr>
 <tr>
-  <td> 11:15 am - 11:55 am
+  <td> 11:30 am - 12:10 am
   <td><p>
   <td> Keynote # 3
   <td><p>
@@ -76,7 +76,7 @@ table {
 </tr>
 <tr><td><hr><td><p><td><hr><td><p><td><hr></tr>
 <tr>
-  <td> 11:55 am - 12:10 pm
+  <td> 12:10 am - 12:25 pm
   <td><p>
   <td> Keynote # 3 Q & A
   <td><p>
@@ -84,7 +84,7 @@ table {
 </tr>
 <tr><td><hr><td><p><td><hr><td><p><td><hr></tr>
 <tr>
-  <td> 12:10 pm - 1:00 pm
+  <td> 12:25 pm - 1:00 pm
   <td><p>
   <td> Lunch Break
   <td><p>
@@ -92,7 +92,7 @@ table {
 </tr>
 <tr><td><hr><td><p><td><hr><td><p><td><hr></tr>
 <tr>
-  <td> 1:00 pm - 1:30 pm
+  <td> 1:00 pm - 1:40 pm
   <td><p>
   <td> Keynote # 4
   <td><p>
@@ -100,7 +100,7 @@ table {
 </tr>
 <tr><td><hr><td><p><td><hr><td><p><td><hr></tr>
 <tr>
-  <td> 1:30 pm - 1:45 pm
+  <td> 1:40 pm - 1:55 pm
   <td><p>
   <td> Keynote # 4 Q & A
   <td><p>
@@ -108,7 +108,7 @@ table {
 </tr>
 <tr><td><hr><td><p><td><hr><td><p><td><hr></tr>
 <tr>
-  <td> 1:45 pm - 2:00 pm
+  <td> 1:55 pm - 2:00 pm
   <td><p>
   <td> Break
   <td><p>
