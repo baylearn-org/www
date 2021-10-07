@@ -30,7 +30,7 @@ table {
 <tr>
   <td> 9:15 am - 9:55 am
   <td><p>
-  <td> Keynote # 1
+  <td> Keynote - 	Jure Leskovec
   <td><p>
   <td> To be posted
 </tr>
@@ -38,7 +38,7 @@ table {
 <tr>
   <td> 9:55 am - 10:10 am
   <td><p>
-  <td> Keynote # 1 Q & A
+  <td> Keynote Q & A with Jure Leskovec
   <td><p>
   <td> To be posted
 </tr>
@@ -54,7 +54,7 @@ table {
 <tr>
   <td> 10:30 am - 11:10 am
   <td><p>
-  <td> Keynote # 2
+  <td> Keynote - Anima Anandkumar
   <td><p>
   <td> To be posted
 </tr>
@@ -62,7 +62,7 @@ table {
 <tr>
   <td> 11:10 am - 11:25 am
   <td><p>
-  <td> Keynote # 2 Q & A
+  <td> Keynote Q & A with Anima Anandkumar
   <td><p>
   <td> To be posted
 </tr>
@@ -70,7 +70,7 @@ table {
 <tr>
   <td> 11:30 am - 12:10 am
   <td><p>
-  <td> Keynote # 3
+  <td> Keynote - Sergey Levin
   <td><p>
   <td> To be posted
 </tr>
@@ -78,7 +78,7 @@ table {
 <tr>
   <td> 12:10 am - 12:25 pm
   <td><p>
-  <td> Keynote # 3 Q & A
+  <td> Keynote Q & A with Sergey Levin
   <td><p>
   <td> To be posted
 </tr>
@@ -94,7 +94,7 @@ table {
 <tr>
   <td> 1:00 pm - 1:40 pm
   <td><p>
-  <td> Keynote # 4
+  <td> Keynote - Eric Horvitz
   <td><p>
   <td> To be posted
 </tr>
@@ -102,7 +102,7 @@ table {
 <tr>
   <td> 1:40 pm - 1:55 pm
   <td><p>
-  <td> Keynote # 4 Q & A
+  <td> Keynote Q & A with Eric Horvitz
   <td><p>
   <td> To be posted
 </tr>
