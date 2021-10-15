@@ -58,7 +58,7 @@ workshopgroup
             <div class="m-3 text-muted">
               <h3>
                 <a href="speaker_{{speaker.UID}}.html" class="main-title">
-                  {{speaker.title}}
+                  {{speaker.talk_title|safe}}
                 </a>
               </h3>
             </div>
@@ -67,8 +67,9 @@ workshopgroup
                 {{speaker.speaker}}  /  {{speaker.institution}}
               </span>
             </div>
+            <p></p>
             <div class="m-3">
-              <b>Keynote Abstract:</b> {{speaker.abstract|safe}}
+              {{speaker.talk_abstract|safe}}
             </div>
             <div class="m-3">
               <b>Speaker Bio:</b> {{speaker.bio|safe}}
