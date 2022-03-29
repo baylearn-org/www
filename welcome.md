@@ -2,18 +2,15 @@ The BayLearn Symposium aims at gathering scientists in machine learning from the
 
 We encourage the submission of poster abstracts. Acceptable material includes work which has already been submitted or published, preliminary results and controversial findings... All accepted abstracts will be presented as posters, a few will be selected for short oral presentations or lightning talks. We do not intend to publish proceedings, only abstracts will be shared through an online repository. Our primary goal is to foster discussion!
 
-### Important Dates for BayLearn 2021
+### Important Dates for BayLearn 2022
 
-  * Abstract submission deadline: July 9th, 11:59pm PDT
-  * Acceptance notification: September 3, 2021
-  * [**Registration**](https://baylearn2021.splashthat.com/): September 7, 2021 through October 26, 2021
-  * Virtual Symposium: October 28, 2021
+  * Abstract submission deadline: Friday, June 17th 2022 11:59pm PDT
+  * Acceptance notification: Thursday Sep 1, 2022
+  * Virtual Symposium: mid October, 2022
 
 ### Registration
 
-Registration is now open.
-
-Please register via [Splashthat event page](https://baylearn2021.splashthat.com/)
+Registration is not yet open. Please check back...
 
 Registration for BayLearn is *free* and on a *first come first serve basis.*
 
