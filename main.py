@@ -108,6 +108,7 @@ def code_of_conduct():
 def submissions():
     data = _data()
     data["papers"] = site_data["papers"]
+    data["call_for_abstracts"] = open("call_for_abstracts.md").read()
     return render_template("submissions.html", **data)
 
 
