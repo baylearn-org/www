@@ -28,5 +28,5 @@ info at baylearn dot org
   * **Dumitru Erhan**, Google Brain <a href="https://www.linkedin.com/in/dumitruerhan/"><img src="static/images/linkedin-logo.png" alt="Jerremy's LinkedIn Profile" width="20" padding="5"/></a> <a href="https://twitter.com/doomie"><img src="static/images/twitter-logo-square.png" alt="Jerremy's Twitter" width="20" padding="5"/></a>
 ### Program Committee
   * **Samy Bengio**, Apple <a href="https://www.linkedin.com/in/bengio/"><img src="static/images/linkedin-logo.png" alt="Jerremy's LinkedIn Profile" width="20" padding="5"/></a>
-  * **Mohak Shah**, LG Electronics <a href="https://www.linkedin.com/in/mohakshah1/"><img src="static/images/linkedin-logo.png" alt="Jerremy's LinkedIn Profile" width="20" padding="5"/></a>
+  * **Mohak Shah**, Praescivi Advisors <a href="https://www.linkedin.com/in/mohakshah1/"><img src="static/images/linkedin-logo.png" alt="Jerremy's LinkedIn Profile" width="20" padding="5"/></a>
   * **Alice Xiang**, Partnership on AI <a href="https://www.linkedin.com/in/alice-xiang-3832aa18/"><img src="static/images/linkedin-logo.png" alt="Jerremy's LinkedIn Profile" width="20" padding="5"/></a> <a href="https://twitter.com/alicexiang"><img src="static/images/twitter-logo-square.png" alt="Jerremy's Twitter" width="20" padding="5"/></a>
