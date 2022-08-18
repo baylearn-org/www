@@ -2,11 +2,14 @@ The BayLearn Symposium aims at gathering scientists in machine learning from the
 
 We encourage the submission of poster abstracts. Acceptable material includes work which has already been submitted or published, preliminary results and controversial findings... All accepted abstracts will be presented as posters, a few will be selected for short oral presentations or lightning talks. We do not intend to publish proceedings, only abstracts will be shared through an online repository. Our primary goal is to foster discussion!
 
+### Venue
+   * BayLearn 2022 will be hosted in-person at [Genentech](https://www.gene.com/) ([South San Francisco campus](https://goo.gl/maps/EgNCGh5smP1kkEdP9))
+
 ### Important Dates for BayLearn 2022
 
-  * Abstract submission deadline: Friday, June 17th 2022 11:59pm PDT
-  * Acceptance notification: Thursday Sep 1, 2022
-  * Virtual Symposium: mid October, 2022
+   * Abstract submission deadline: Thursday, July 14th, 2022 11:59pm PDT
+   * Acceptance notification: Thursday Sep 15th, 2022
+   * BayLearn Symposium: Thursday October 20th, 2022
 
 ### Registration
 
