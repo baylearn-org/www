@@ -3,7 +3,7 @@
 The BayLearn 2022 abstract submission site is now open for submissions:
 [BayLearn 2022 CMT](https://cmt3.research.microsoft.com/BAYLEARN2022)
 
-The abstract submission deadline is Friday June 17th, 2022 11:59 pm PDT. Please submit abstracts as a 2-page pdf in NeurIPS format. An extra page for acknowledgements and references is allowed.
+The abstract submission deadline is Thursday, July 14th, 2022 11:59 pm PDT Please submit abstracts as a 2-page pdf in NeurIPS format. An extra page for acknowledgements and references is allowed.
 
 About BayLearn:
 The BayLearn Symposium is an annual gathering of machine learning researchers and scientists from the San Francisco Bay Area. While BayLearn promotes community building and technical discussions between local researchers from academic and industrial institutions, it also welcomes visitors. This one-day event combines invited talks, contributed talks, and posters, to foster exchange of ideas.
@@ -16,9 +16,9 @@ Feel free to circulate this invitation to your colleagues and relevant contacts.
 
 ## Key Dates ##
 
-* Friday Jun 17th, 2022 at 11:59pm PDT - Abstract submission deadline
-* Thursday Sept 1st, 2022 - Acceptance notifications
-* Mid October 2022 - BayLearn 2022 Symposium. We are planning for BayLearn 2022 to be an in-person event, with date and venue to be announced prior to the submission deadline.
+* Thursday July 14th, 2022 at 11:59pm PDT - Abstract submission deadline
+* Thursday Sept 15th, 2022 - Acceptance notifications
+* October 20th, 2022 - BayLearn 2022 Symposium. We are planning for BayLearn 2022 to be an in-person event.
 
 ## Submissions ##
 We encourage submission of abstracts. Acceptable material includes work which has already been submitted or published, preliminary results and controversial findings. We do not intend to publish paper proceedings; only abstracts will be shared through an online repository. Our primary goal is to foster discussion!  For examples of previously accepted talks, please watch the paper presentations from previous BayLearn Symposiums: [https://baylearn.org/previous](https://baylearn.org/previous)
