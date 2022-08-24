@@ -1,4 +1,5 @@
 UID,image,title,speaker,institution,talk_title,talk_abstract,bio,session,"homepage"
 1,"static/images/speakers/zoubin.jpg","","Dr. Zoubin Ghahramani","Google and University of Cambridge","Talk Title TBD","Abstract TBD","VP Research, Google, and Professor, University of Cambridge","",""
-2,"static/images/speakers/samy_apple_2021.jpeg","","Dr. Samy Bengio","Apple","Talk Title TBD","Abstract TBD","Senior Director, AI and Machine Learning Research","","https://bengio.abracadoudou.com/"
-3,"static/images/speakers/trevor.jpg","","Dr. Trevor Darrell","UC Berkeley","Talk Title TBD","Abstract TBD","Professor, UC Berkeley","","https://people.eecs.berkeley.edu/~trevor/"
+2,"static/images/speakers/rediet.jpg","","Dr. Rediet Abebe","Harvard Society of Fellows","Talk Title TBD","Abstract TBD","Junior Fellow","",""
+3,"static/images/speakers/samy_apple_2021.jpeg","","Dr. Samy Bengio","Apple","Talk Title TBD","Abstract TBD","Senior Director, AI and Machine Learning Research","","https://bengio.abracadoudou.com/"
+4,"static/images/speakers/trevor.jpg","","Dr. Trevor Darrell","UC Berkeley","Talk Title TBD","Abstract TBD","Professor, UC Berkeley","","https://people.eecs.berkeley.edu/~trevor/"
