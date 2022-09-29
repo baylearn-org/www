@@ -9,6 +9,8 @@ We encourage the submission of poster abstracts. Acceptable material includes wo
 
    * Abstract submission deadline: Thursday, July 14th, 2022 11:59pm PDT
    * Acceptance notification: Thursday Sep 15th, 2022
+   * Registration for attending opens: Sep 29, 2022 
+   * Registration closes on Tuesday, October 10th at 5:00PM PDT
    * BayLearn Symposium: Thursday October 20th, 2022
 
 ### Registration is OPEN
