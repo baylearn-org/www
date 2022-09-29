@@ -11,7 +11,7 @@ We encourage the submission of poster abstracts. Acceptable material includes wo
    * Acceptance notification: Thursday Sep 15th, 2022
    * BayLearn Symposium: Thursday October 20th, 2022
 
-### Registration
+### Registration is OPEN
 
 Registration is now open. Please [Register Online](https://baylearn2022.splashthat.com/) to attend BayLearn 2022.
 
