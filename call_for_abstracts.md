@@ -1,6 +1,6 @@
 # Call for Abstracts #
 ## BayLearn 2022 ##
-The BayLearn 2022 abstract submission site is now open for submissions:
+The BayLearn 2022 abstract submission site is now <strike>open</strike> CLOSED for submissions:
 [BayLearn 2022 CMT](https://cmt3.research.microsoft.com/BAYLEARN2022)
 
 The abstract submission deadline is Thursday, July 14th, 2022 11:59 pm PDT Please submit abstracts as a 2-page pdf in NeurIPS format. An extra page for acknowledgements and references is allowed.

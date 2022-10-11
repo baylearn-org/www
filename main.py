@@ -26,7 +26,7 @@ def main(site_data_path):
         elif typ in {"csv", "tsv"}:
             site_data[name] = list(csv.DictReader(open(f)))
         elif typ == "yml":
-            site_data[name] = yaml.load(open(f).read(), Loader=yaml.SafeLoader)
+             site_data[name] = yaml.load(open(f).read(), Loader=yaml.SafeLoader)
 
     for typ in ["papers", "speakers", "workshops"]:
         by_uid[typ] = {}

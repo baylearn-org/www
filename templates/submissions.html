@@ -1,12 +1,16 @@
 {% set page_title = "Accepted Submissions" %}
 {% extends "base.html" %}
 {% block content %}
-{{ call_for_abstracts | markdown }}
+
 <!-- papers -->
 {{ components.section("Accepted Submissions") }}
 <div class="speakers">
   {{ components.papersgroup(papers) }}
 </div>
 
+<hr>
+<hr>
+{{ call_for_abstracts | markdown }}
+<hr>
+<hr>
 {% endblock %}
-s
