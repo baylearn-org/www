@@ -1,6 +1,6 @@
 name: BayLearn
 tagline: BayLearn - Machine Learning Symposium<br>San Francisco Bay Area
-date: Oct 20, 2022
+date: Oct 19, 2023
 analytics: UA-
 logo:
   image: static/images/baylearn-logo.jpg
@@ -9,7 +9,7 @@ logo:
 # uncomment the following line to show the site title next to the logo image
 # site_title: MiniConf
 page_title:
-  prefix: 'BayLearn - Machine Learning Symposium - 2022'
+  prefix: 'BayLearn - Machine Learning Symposium - 2023'
   separator: ': '
 background_image: static/images/sf-background.jpg
 organization: BayLearn Organization Committee
