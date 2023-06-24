@@ -1,0 +1,364 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <!-- Required meta tags -->
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- External Javascript libs_ext  -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
+            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+
+    <script
+            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"
+    ></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"
+            integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js"
+            integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+            crossorigin="anonymous"></script>
+
+
+    <!-- Library libs_ext -->
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
+
+
+    <!--    Internal Libs -->
+    <script src="static/js/data/api.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+          crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+            href="static/css/Lato.css"
+            rel="stylesheet"
+    />
+    <link href="static/css/Exo.css" rel="stylesheet"/>
+    <link
+            href="static/css/Cuprum.css"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="static/css/main.css"/>
+<!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+
+    <title>BayLearn - Machine Learning Symposium - 2022: Keynotes</title>
+    
+</head>
+
+<body>
+<!-- NAV -->
+
+<nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src="static/images/baylearn-logo.jpg"
+                    height="auto"
+            width="180px"
+            />
+        </a>
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="schedule.html">Schedule</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="submissions.html">Submissions</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="keynotes.html">Keynotes</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="sponsors.html">Sponsors</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="code_of_conduct.html">Code of Conduct</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="privacy_policy.html">Privacy Policy</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="previous.html">Previous Years</a>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<!-- User Overrides -->
+ 
+
+<div class="container">
+    <!-- Tabs -->
+    <div class="tabs">
+         
+    </div>
+    <!-- Content -->
+    <div class="content">
+        
+
+<!-- Speakers -->
+<div class="border-top my-3"></div>
+<div class="row p-4" id="faq">
+  <div class="col-12 bd-content">
+    <h2 class="text-center">Speakers</h2>
+  </div>
+</div>
+<div class="speakers">
+  
+<div class="row p-4">
+  <div class="col-md-12">
+    <div class="card">
+      <div class="card-header">
+        <div class="row">
+          <div class="col-md-2 col-sm-5">
+            <img src="static/images/speakers/samy_apple_2021.jpeg" width="100%" class="img-thumbnail" />
+          </div>
+          <div class="col-md-10 col-sm-6">
+            <div class="m-3 text-muted">
+              <h3>
+                <a href="speaker_1.html" class="main-title">
+                  Recent Advances in Representation Learning
+                </a>
+              </h3>
+            </div>
+            <div class="m-3 text-muted">
+              <span class="card-title h3">
+                Dr. Samy Bengio  /  Apple
+              </span>
+            </div>
+            <p></p>
+            <div class="m-3">
+              Deep learning has made a lot of progress in the past decade which yielded impressive results transforming applications such as speech recognition or machine translation, but much more needs to be done in order to build and understand better representation learning approaches in terms of fairness, efficiency and robustness. In this presentation, I will go over a set of recent research work from our Machine Learning Research team at Apple towards better understanding important aspects of representation learning.
+            </div>
+            <div class="m-3">
+              <b>Speaker Bio:</b> Senior Director, AI and Machine Learning Research
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row p-4">
+  <div class="col-md-12">
+    <div class="card">
+      <div class="card-header">
+        <div class="row">
+          <div class="col-md-2 col-sm-5">
+            <img src="static/images/speakers/rediet.jpg" width="100%" class="img-thumbnail" />
+          </div>
+          <div class="col-md-10 col-sm-6">
+            <div class="m-3 text-muted">
+              <h3>
+                <a href="speaker_2.html" class="main-title">
+                  Algorithms on the Bench: Evaluating Validity of Machine Learning Systems in the Public Sphere
+                </a>
+              </h3>
+            </div>
+            <div class="m-3 text-muted">
+              <span class="card-title h3">
+                Dr. Rediet Abebe  /  Harvard Society of Fellows
+              </span>
+            </div>
+            <p></p>
+            <div class="m-3">
+              Abstract TBD
+            </div>
+            <div class="m-3">
+              <b>Speaker Bio:</b> Rediet Abebe is a Junior Fellow at the Harvard Society of Fellows and a 2022 Andrew Carnegie Fellow. Abebe’s research examines the interaction of algorithms and inequality, with a focus on contributing to the scientific foundations of this emerging research area. Abebe co-launched the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), for which she serves on the executive committee and was a program co-chair for the inaugural conference. Abebe's work has received recognitions including the MIT Technology Reviews’ 35 Innovators Under 35, the Bloomberg 50 as a one to watch, the ACM SIGKDD Dissertation Award, and an honorable mention for the ACM SIGecom Dissertation Award. Abebe is on leave as an assistant professor of computer science at UC Berkeley. She holds a Ph.D. in Computer Science from Cornell University and Master’s degrees in mathematics from both the University of Cambridge and Harvard University.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row p-4">
+  <div class="col-md-12">
+    <div class="card">
+      <div class="card-header">
+        <div class="row">
+          <div class="col-md-2 col-sm-5">
+            <img src="static/images/speakers/zoubin.jpg" width="100%" class="img-thumbnail" />
+          </div>
+          <div class="col-md-10 col-sm-6">
+            <div class="m-3 text-muted">
+              <h3>
+                <a href="speaker_3.html" class="main-title">
+                  Recent Advances in AI from Google Research
+                </a>
+              </h3>
+            </div>
+            <div class="m-3 text-muted">
+              <span class="card-title h3">
+                Dr. Zoubin Ghahramani  /  Google and University of Cambridge
+              </span>
+            </div>
+            <p></p>
+            <div class="m-3">
+              While the last decade of research in AI and machine learning has produced spectacular advances and practical impact, in the last few months progress seems to have accelerated driven by very large models. I'll describe some of the trends helping this and outline work on several recent advances from Google Research. My tour will include text-to-image generation models (Imagen and Parti), open-ended dialog systems (LaMDA), multi-task language models (PaLM), language-driven robotics (PaLM-SayCan) and foundational work on helping these models integrate into useful human-centric applications in a responsible way.
+            </div>
+            <div class="m-3">
+              <b>Speaker Bio:</b> Zoubin Ghahramani is a VP of Research at Google, leading Google Brain, as well as Professor of Information Engineering at the University of Cambridge. Before joining Google, he was Chief Scientist and VP for AI at Uber. He served as the founding Cambridge Director of the Alan Turing Institute, the UK’s national institute for data science and AI. He has worked and studied at the University of Pennsylvania, MIT, the University of Toronto, the Gatsby Unit at University College London, and Carnegie Mellon University. His research focuses on probabilistic approaches to machine learning and artificial intelligence, and he has published about 300 research papers on these topics. He was co-founder of Geometric Intelligence (which became Uber AI Labs) and has advised a number of AI and machine learning companies. In 2015, Zoubin was elected a Fellow of the Royal Society for his contributions to machine learning and he is the winner of the 2021 Royal Society Milner Award for outstanding achievements in computer science in Europe.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row p-4">
+  <div class="col-md-12">
+    <div class="card">
+      <div class="card-header">
+        <div class="row">
+          <div class="col-md-2 col-sm-5">
+            <img src="static/images/speakers/trevor.jpg" width="100%" class="img-thumbnail" />
+          </div>
+          <div class="col-md-10 col-sm-6">
+            <div class="m-3 text-muted">
+              <h3>
+                <a href="speaker_4.html" class="main-title">
+                  Unsupervised, Adaptive, and Advisable Visual Learning
+                </a>
+              </h3>
+            </div>
+            <div class="m-3 text-muted">
+              <span class="card-title h3">
+                Dr. Trevor Darrell  /  UC Berkeley
+              </span>
+            </div>
+            <p></p>
+            <div class="m-3">
+              Unsupervised and cross-modal methods are rapidly overtaking supervised techniques as the dominant paradigm for visual learning.  Models based on reconstruction, masking, and denoising have demonstrated ability to generalize from few examples, allow interpretable interaction, and learn from few or no labeled examples. I'll survey recent advances at Berkeley developing such models for visual pretraining of robotic agents, learning visual analogies, adapting to out-of-distribution data, and learning social gestures, and will speculate on future unified models as time permits.
+            </div>
+            <div class="m-3">
+              <b>Speaker Bio:</b> Prof. Darrell is on the faculty of the CS and EE Divisions of the EECS Department at UC Berkeley. He founded and co-leads Berkeley’s Berkeley Artificial Intelligence Research (BAIR) lab, the Berkeley DeepDrive (BDD) Industrial Consortia, and the recently launched BAIR Commons program in partnership with Facebook, Google, Microsoft, Amazon, and other partners.   He also was Faculty Director of the PATH research center at UC Berkeley, and led the Vision group at the UC-affiliated International Computer Science Institute in Berkeley from 2008-2014. Prior to that, Prof. Darrell was on the faculty of the MIT EECS department from 1999-2008, where he directed the Vision Interface Group. He was a member of the research staff at Interval Research Corporation from 1996-1999, and received the S.M., and PhD. degrees from MIT in 1992 and 1996, respectively. He obtained the B.S.E. degree from the University of Pennsylvania in 1988.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+
+    </div>
+</div>
+
+
+
+<!-- Google Analytics -->
+<script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+  gtag("config", "UA-");
+</script>
+
+<!-- Footer -->
+<footer class="footer bg-light p-4">
+    <div class="container">
+        <p class="float-right"><a href="#">Back to Top</a></p>
+        <p class="text-center">© 2021 BayLearn Organization Committee</p>
+    </div>
+</footer>
+
+<!-- Code for hash tags -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    if (window.location.hash !== "") {
+      $(`a[href="${window.location.hash}"]`).tab("show");
+    }
+
+    $("a[data-toggle='tab']").on("shown.bs.tab", function (e) {
+      const hash = $(e.target).attr("href");
+      if (hash.substr(0, 1) === "#") {
+        const position = $(window).scrollTop();
+        window.location.replace(`#${hash.substr(1)}`);
+        $(window).scrollTop(position);
+      }
+    });
+  });
+</script>
+<!--    <script src="static/js/modules/lazyLoad.js"></script>-->
+
+</body>
+</html>
