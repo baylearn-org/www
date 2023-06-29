@@ -7,7 +7,7 @@ We encourage the submission of poster abstracts. Acceptable material includes wo
 
 ### Important Dates for BayLearn 2023
 
-   * Abstract submission deadline: Thursday, June 30, 2023 11:59pm PDT
+   * Abstract submission deadline (EXTENDED): Thursday, July 13, 2023 11:59pm PDT
    * Acceptance notification: Thursday Sep 14th, 2023
    * Registration for attending opens: Monday Sep 18th 2023
    * BayLearn Symposium: Thursday October 19th, 2023
