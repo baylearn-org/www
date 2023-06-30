@@ -6,7 +6,7 @@ The BayLearn 2023 abstract submission site is now open for submissions:
 
 [https://baylearn.org/submissions](https://baylearn.org/submissions)
 
-The abstract submission deadline is Friday, June 30th, 2023, 11:59pm PDT.
+The abstract submission deadline is Thursday, July 13, 2023 11:59pm PDT.
 
 Please submit abstracts as a 2-page PDF in NeurIPS format. An extra page for acknowledgements and references is allowed.
 
