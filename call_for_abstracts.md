@@ -21,8 +21,8 @@ Feel free to circulate this invitation to your colleagues and relevant contacts.
 Key Dates
 ----------
    * Abstract submission deadline (EXTENDED): Thursday, July 13, 2023 11:59pm PDT
-   * Acceptance notifications: Thursday September 14th, 2023
-   * BayLearn 2023 Symposium: Thursday October 19th, 2023 -  We are planning for BayLearn 2023 to be a purely in-person (NOT hybrid) event at a venue in the East Bay. Details to be announced. 
+   * Acceptance notifications: Wednesday, September 20th, 2023
+   * BayLearn 2023 Symposium: Thursday, October 19th, 2023 -  We are planning for BayLearn 2023 to be a purely in-person (NOT hybrid) event at a venue in the East Bay. Details to be announced. 
 
 
 
