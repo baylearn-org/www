@@ -1,1 +1,6 @@
 UID,image,title,speaker,institution,talk_title,talk_abstract,bio,session,"homepage"
+1,"static/images/speakers/FeiFei Picture small.jpg","Sequoia Capital Professor, Co-Director of the Stanford Institute for Human-Centered Artificial Intelligence (HAI)","Prof. Fei-Fei Li","Stanford HAI","Talk Title - To be added","Talk Abstract - To be added","Speaker Bio - to be added","session","homepage"
+2,"static/images/speakers/nsalehi.png","Assistant professor","Prof. Niloufar Salehi","School of Information at UC, Berkeley","Talk Title - To be added","Talk Abstract - To be added","Speaker Bio - to be added","session","homepage"
+3,"static/images/speakers/chrismre_headshot_lowres.jpg","Associate Professor","Prof. Christopher Re","Department of Computer Science at Stanford University","Talk Title - To be added","Talk Abstract - To be added","Speaker Bio - to be added","session","https://cs.stanford.edu/~chrismre/"
+4,"static/images/speakers/percy3.jpeg","Associate Professor","Prof. Percy Liang","Department of Computer Science at Stanford University","Talk Title - To be added","Talk Abstract - To be added","Speaker Bio - to be added","session","https://cs.stanford.edu/~pliang/"
+
