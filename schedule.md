@@ -2,7 +2,8 @@
 In-person (NOT hybrid) symposium on Thursday Oct 19th, 2023 at 
 [1955 Broadway, Oakland, CA 94612](https://maps.app.goo.gl/yjxW9Um3mWE7EDzh8)
 
-<style>
+<h5 style="color: red;">We will not be able to allow registration on the day of the event. You must be registered and confirmed to attend on or before Monday Oct 16th.</h5><style>
+
 .schedule {
     border-spacing: 20px;
 }
