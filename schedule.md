@@ -31,7 +31,7 @@ In-person (NOT hybrid) symposium on Thursday Oct 19th, 2023 at
 <tr>
     <td>9:00 am - 9:15 am PDT</td>
  <td><p></p></td>
-    <td>Welcome to BayLearn 2022</td>
+    <td>Welcome to BayLearn 2023</td>
 </tr>
 <tr><td><hr><td><p><td><hr><td><p><td><hr></tr>
 
