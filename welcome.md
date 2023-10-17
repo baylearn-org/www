@@ -3,7 +3,7 @@ The BayLearn Symposium aims at gathering scientists in machine learning from the
 We encourage the submission of poster abstracts. Acceptable material includes work which has already been submitted or published, preliminary results and controversial findings... All accepted abstracts will be presented as posters, a few will be selected for short oral presentations or lightning talks. We do not intend to publish proceedings, only abstracts will be shared through an online repository. Our primary goal is to foster discussion!
 
 ### Venue
-   * BayLearn 2023 will be hosted in-person at 1955 Broadway, Oakland, CA 94612 hosted by Block Inc. (formerly Square Inc.)
+   * BayLearn 2023 will be hosted in-person hosted by Block Inc. (formerly Square Inc.). Registered attendees: please follow the instruction in the email (titled "BayLearn 2023: See you Thursday!") to get to the venue. <h5 style="color: red;">No onsite registration! Don't forget to bring a govt. issued photo ID.</h5>
 
 ### Important Dates for BayLearn 2023
 
@@ -18,7 +18,7 @@ We encourage the submission of poster abstracts. Acceptable material includes wo
 <h5 style="color: red;">We will not be able to allow registration on the day of the event. You must be registered and confirmed to attend on or before Monday Oct 16th.</h5>
 
 Registration for BayLearn is *free* and on a *first come first serve basis.*
-Registration is now open. Please register at [https://baylearn2023.splashthat.com/](https://baylearn2023.splashthat.com/)
+Please register at [https://baylearn2023.splashthat.com/](https://baylearn2023.splashthat.com/)
 
 ### Mailing List
 Please join the [BayLearn Mailing List](https://list.baylearn.org/mailer/subscription?f=aK11NFcwFHDsqyg2KtuWT9EADnAgk1IC6JmBfVDyvslA1pA3IFZ0eb1CNHk3hiPbn9uo8h06Xpg9uJpNfDV7Eg&sa=D&sntz=1&usg=AFQjCNFY4nELZp_qKIPqOxRyfww6bTArnQ) for receiving symposium related announcements.

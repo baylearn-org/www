@@ -1,8 +1,11 @@
 # Event Schedule
-In-person (NOT hybrid) symposium on Thursday Oct 19th, 2023 at 
-[1955 Broadway, Oakland, CA 94612](https://maps.app.goo.gl/yjxW9Um3mWE7EDzh8)
+In-person (NOT hybrid) symposium on Thursday Oct 19th, 2023.
+Registered attendees: please follow the instruction in the email (titled "BayLearn 2023: See you Thursday!") to get to the venue.
 
-<h5 style="color: red;">We will not be able to allow registration on the day of the event. You must be registered and confirmed to attend on or before Monday Oct 16th.</h5><style>
+<h5 style="color: red;">
+IMPORTANT: YOU WILL BE TURNED AWAY FROM BAYLEARN UNLESS YOU ARE PRE-REGISTERED TO ATTEND AND BRING A GOVT. ISSUED PHOTO ID WITH YOU.
+There is NO On-Site Registration.  Anyone showing up at BayLearn 2023 who has not pre-registered will be turned away. 
+</h5><style>
 
 .schedule {
     border-spacing: 20px;
