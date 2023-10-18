@@ -15,10 +15,9 @@ We encourage the submission of poster abstracts. Acceptable material includes wo
    * BayLearn Symposium: Thursday, October 19th, 2023
 
 ### Registration
-<h5 style="color: red;">We will not be able to allow registration on the day of the event. You must be registered and confirmed to attend on or before Monday Oct 16th.</h5>
-
-Registration for BayLearn is *free* and on a *first come first serve basis.*
-Please register at [https://baylearn2023.splashthat.com/](https://baylearn2023.splashthat.com/)
+<h5 style="color: red;">
+Registration is currently CLOSED.
+</h5>
 
 ### Mailing List
 Please join the [BayLearn Mailing List](https://list.baylearn.org/mailer/subscription?f=aK11NFcwFHDsqyg2KtuWT9EADnAgk1IC6JmBfVDyvslA1pA3IFZ0eb1CNHk3hiPbn9uo8h06Xpg9uJpNfDV7Eg&sa=D&sntz=1&usg=AFQjCNFY4nELZp_qKIPqOxRyfww6bTArnQ) for receiving symposium related announcements.
