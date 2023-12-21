@@ -2,7 +2,7 @@
 BayLearn 2023 was an in-person symposium held on Thursday Oct 19th, 2023.
 
 Here is a <a src="https://www.youtube.com/playlist?list=PLP2fXYwxWOBIvcjJoexqWIyZ7OH4kHd3X">YouTube PlayList</a> to watch all the videos in order.
-
+<style>
 .schedule {
     border-spacing: 20px;
 }
