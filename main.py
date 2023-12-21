@@ -181,9 +181,9 @@ def paper_json():
     return jsonify(json)
 
 
-@app.route("/static/<path:path>")
-def send_static(path):
-    return send_from_directory("static", path)
+#@app.route("/static/<path:path>")
+#def send_static(path):
+#    return send_from_directory("static", path)
 
 
 @app.route("/serve_<path>.json")
