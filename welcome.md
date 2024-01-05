@@ -2,22 +2,15 @@ The BayLearn Symposium aims at gathering scientists in machine learning from the
 
 We encourage the submission of poster abstracts. Acceptable material includes work which has already been submitted or published, preliminary results and controversial findings... All accepted abstracts will be presented as posters, a few will be selected for short oral presentations or lightning talks. We do not intend to publish proceedings, only abstracts will be shared through an online repository. Our primary goal is to foster discussion!
 
+### BayLearn 2023 Videos are Online
+The Baylearn 2023 Videos are online, and can be accessed from our [schedule page](https://www.baylearn.org/schedule), or via this [YouTube Playlist](https://youtube.com/playlist?list=PLP2fXYwxWOBIvcjJoexqWIyZ7OH4kHd3X&si=_GRCAij6rc_c4zE4).
+
+### 
+
 ### Venue
    * BayLearn 2023 was hosted in-person hosted by Block Inc. (formerly Square Inc.). 
 
-### Important Dates for BayLearn 2023
 
-   * Abstract submission deadline (EXTENDED): Thursday, July 13, 2023 11:59pm PDT
-   * Acceptance notification: Wednesday, Sep 20th, 2023
-   * Registration for attending opens: Monday, Sep 25th 2023
-   * Registration for attending closes: Tuesday, Oct 10th 2023
-   * Registration for lottery results via email:  Thursday, Oct 12th 2023
-   * BayLearn Symposium: Thursday, October 19th, 2023
-
-### Registration
-<h5 style="color: red;">
-Registration is currently CLOSED.
-</h5>
 
 ### Mailing List
 Please join the [BayLearn Mailing List](https://list.baylearn.org/mailer/subscription?f=aK11NFcwFHDsqyg2KtuWT9EADnAgk1IC6JmBfVDyvslA1pA3IFZ0eb1CNHk3hiPbn9uo8h06Xpg9uJpNfDV7Eg&sa=D&sntz=1&usg=AFQjCNFY4nELZp_qKIPqOxRyfww6bTArnQ) for receiving symposium related announcements.
