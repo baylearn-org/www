@@ -35,6 +35,6 @@ deploy: freeze
 	cp -r build/* docs/
 	git add -f docs
 	git commit -am "Deploy baylearn.org site via github pages"
-	git push --force origin master
+	git push origin master
 	@echo "Deployed to the live BayLearn site 🚀"
 
