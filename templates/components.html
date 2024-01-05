@@ -52,19 +52,19 @@ workshopgroup
       <div class="card-header">
         <div class="row">
           <div class="col-md-2 col-sm-5">
-            <img src="{{speaker.image}}" width="100%" class="img-thumbnail" />
+            <a href="{{speaker.homepage}}"><img src="{{speaker.image}}"   width="100%" class="img-thumbnail" width="100%" class="img-thumbnail" /></a>
           </div>
           <div class="col-md-10 col-sm-6">
             <div class="m-3 text-muted">
               <h3>
-                <a href="speaker_{{speaker.UID}}.html" class="main-title">
-                  {{speaker.talk_title|safe}}
+                <a href="{{speaker.video_url}}" class="main-title">
+                  {{speaker.talk_title|safe}} <img src="static/images/yt_logo_mono_light.png" height="15px"/>
                 </a>
               </h3>
             </div>
             <div class="m-3 text-muted">
               <span class="card-title h3">
-                {{speaker.speaker}}  /  {{speaker.institution}}
+               <a href="{{speaker.homepage}}"> {{speaker.speaker}} </a> /  {{speaker.institution}}
               </span>
             </div>
             <p></p>
