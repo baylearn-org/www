@@ -2,14 +2,9 @@ The BayLearn Symposium aims at gathering scientists in machine learning from the
 
 We encourage the submission of poster abstracts. Acceptable material includes work which has already been submitted or published, preliminary results and controversial findings... All accepted abstracts will be presented as posters, a few will be selected for short oral presentations or lightning talks. We do not intend to publish proceedings, only abstracts will be shared through an online repository. Our primary goal is to foster discussion!
 
-### BayLearn 2023 Videos are Online
-The Baylearn 2023 Videos are online, and can be accessed from our [schedule page](https://www.baylearn.org/schedule), or via this [YouTube Playlist](https://youtube.com/playlist?list=PLP2fXYwxWOBIvcjJoexqWIyZ7OH4kHd3X&si=_GRCAij6rc_c4zE4).
-
-### 
-
-### Venue
-   * BayLearn 2023 was hosted in-person hosted by Block Inc. (formerly Square Inc.). 
-
+### BayLearn 2024 Call for Host
+Please reach out to us by March 15th to indicate your interest in hosting BayLearn 2024.
+The formal hosting submissions are due March 31st, 2024.
 
 
 ### Mailing List

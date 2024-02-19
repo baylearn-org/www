@@ -1,5 +1,6 @@
 BayLearn is being held every year since 2012.
 
+* BayLearn [2023](2023/index.html) at Block (formerly Square)
 * BayLearn [2022](2022/index.html) at Genentech
 * BayLearn [2021](2021/index.html) - online (virtual)
 * BayLearn [2020](2020/index.html) - online (virtual)
