@@ -4,11 +4,11 @@ BayLearn 2024 will be an in-person event hosted at Apple (Cupertino, CA).
 
 The BayLearn 2024 abstract submission site is now open for submissions:
 
-https://baylearn.org/submissions
+[https://baylearn.org/submissions](https://baylearn.org/submissions)
 
 The abstract submission deadline is July 22th, 2024 11:59pm PDT.
 
-Please submit abstracts as a 2-page PDF in NeurIPS format. An extra page for acknowledgements and references is allowed.
+Please submit abstracts as a [2-page PDF in NeurIPS format](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles). An extra page for acknowledgements and references is allowed.
 
 ### About BayLearn
 The BayLearn Symposium is an annual gathering of machine learning researchers and scientists from the San Francisco Bay Area. While BayLearn promotes community building and technical discussions between local researchers from academic and industrial institutions, it also welcomes visitors. This one-day event combines invited talks, contributed talks, and posters, to foster exchange of ideas.
@@ -30,10 +30,10 @@ We encourage submission of abstracts. Acceptable material includes work which ha
 
 For more information about submissions, please look here:
 
-https://baylearn.org/submissions
+[https://baylearn.org/submissions](https://baylearn.org/submissions)
 
 Submit your abstracts via CMT:
 
-https://cmt3.research.microsoft.com/BAYLEARN2024
+[https://cmt3.research.microsoft.com/BAYLEARN2024](https://cmt3.research.microsoft.com/BAYLEARN2024)
 
-Please use the NeurIPS submission format: https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles
+Please use the NeurIPS submission format: [https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles)
