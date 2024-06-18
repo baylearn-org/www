@@ -1,6 +1,6 @@
 # Call for Abstracts #
 
-BayLearn 2024 will be an in-person event hosted at Apple (Cupertino, CA).
+BayLearn 2024 will be an in-person event hosted at Cupertino, CA.
 
 The BayLearn 2024 abstract submission site is now open for submissions:
 
@@ -22,7 +22,7 @@ Feel free to circulate this invitation to your colleagues and relevant contacts.
  * Acceptance notifications: Sep 9th, 2024
  * BayLearn 2024 Symposium: Thursday, October 10th, 2024
 
-We are planning for BayLearn 2024 to be a purely in-person (NOT hybrid) event at Apple's Cupertino campus. Details to be announced.
+We are planning for BayLearn 2024 to be a purely in-person (NOT hybrid) event at Cupertino. Details to be announced.
 
 ### Submissions
 
