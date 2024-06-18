@@ -7,8 +7,8 @@ BayLearn 2024 will be hosted in person at Apple in Cupertino. Exact location and
 
 ### Key Dates
  * Call for Abstract: June 12th, 2024 (see submissions page)
- * Abstract submission deadline: July 15th, 2024 11:59pm PDT 
- * Acceptance notifications: Aug 9th, 2024
+ * Abstract submission deadline: July 22th, 2024 11:59pm PDT 
+ * Acceptance notifications: Sep 9th, 2024
  * BayLearn 2024 Symposium: Thu, Oct 10th 2024
 
 ### Mailing List
