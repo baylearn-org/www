@@ -13,7 +13,9 @@ Source Code: <a href='https://github.com/Mini-Conf/Mini-Conf'> https://github.co
 > make run
 </pre>
 
+## Deploy
 When you are ready to deploy run `make freeze` to get a static version of the site in the `build` folder.
+Then run `make deploy` to commit and deploy the latest static site
 
 
 ### Tour
