@@ -6,7 +6,7 @@ The BayLearn 2024 abstract submission site is now open for submissions:
 
 [https://baylearn.org/submissions](https://baylearn.org/submissions)
 
-The abstract submission deadline is July 22th, 2024 11:59pm PDT.
+The **abstract submission deadline has been extended** to Aug 5th, 2024 11:59pm PDT.
 
 Please submit abstracts as a [2-page PDF in NeurIPS format](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles). An extra page for acknowledgements and references is allowed.
 
@@ -18,7 +18,7 @@ Meet with fellow Bay Area machine learning researchers and scientists during the
 Feel free to circulate this invitation to your colleagues and relevant contacts.
 
 ### Key Dates
- * Abstract submission deadline: July 22th, 2024 11:59pm PDT
+ * Abstract submission deadline--**Extended...Now**: Aug 5th, 2024 11:59pm PDT
  * Acceptance notifications: Sep 9th, 2024
  * BayLearn 2024 Symposium: Thursday, October 10th, 2024
 
@@ -37,3 +37,4 @@ Submit your abstracts via CMT:
 [https://cmt3.research.microsoft.com/BAYLEARN2024](https://cmt3.research.microsoft.com/BAYLEARN2024)
 
 Please use the NeurIPS submission format: [https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles)
+****
