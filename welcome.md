@@ -9,6 +9,9 @@ BayLearn 2024 will be hosted in person in Cupertino, CA. Exact location and dire
  * Call for Abstract: June 12th, 2024 (see submissions page)
  * Abstract submission deadline—**Extended...Now**: Aug 5th, 2024 11:59pm PDT 
  * Acceptance notifications—**Updated Date**: Sep 16th, 2024
+ * Registration Lottery: Now Open => **[Enter the Registration Lottery Now](https://baylearn2024.splashthat.com)**
+ * Registration Lottery Closes: Oct 1, 2024
+ * Registration Lottery Winners announced via e-mail: Oct 3, 2024
  * BayLearn 2024 Symposium: Thu, Oct 10th 2024
 
 ### Mailing List
