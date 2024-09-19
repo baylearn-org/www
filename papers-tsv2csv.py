@@ -11,7 +11,7 @@ class Paper:
         self.record["title"] = input_record["Paper Title"]
         self.record["authors"] = input_record["Authors"]
         self.record["abstract"] = input_record["Abstract"]
-        self.record["keywords"] = input_record["Q2 (Topics)"]
+        # self.record["keywords"] = input_record["Q2 (Topics)"] ## special question
         self.record["sessions"] = "A/B" #input_record["sessions"]
     
     def print_paper(self):
