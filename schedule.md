@@ -1,5 +1,5 @@
 # Event Schedule
-Symposium is scheduled to be on Thu, Oct 10th 2024. More detailed schedule is coming soon.
+Symposium is scheduled to be on Thu, Oct 10th 2024 at Cupertino, Califonia. 
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link type="text/css" rel="stylesheet" href="resources/sheet.css" >
