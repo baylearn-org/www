@@ -2,8 +2,11 @@ The BayLearn Symposium aims at gathering scientists in machine learning from the
 
 We encourage the submission of poster abstracts. Acceptable material includes work which has already been submitted or published, preliminary results and controversial findings... All accepted abstracts will be presented as posters, a few will be selected for short oral presentations or lightning talks. We do not intend to publish proceedings, only abstracts will be shared through an online repository. Our primary goal is to foster discussion!
 
+### Videos from BayLearn 2024
+The YouTube Playlist for BayLearn 2024 can be found [here](https://www.youtube.com/playlist?list=PLP2fXYwxWOBLG5lvmmYVEWdDOt1QIzt2p).
+
 ### Venue
-BayLearn 2024 will be hosted in person in Cupertino, CA. Exact location and direction will be shared later with confirmed attendees.
+BayLearn 2024 was hosted in person in at Apple, in Cupertino, CA. 
 
 ### Key Dates
  * <s>Call for Abstract: June 12th, 2024 (see submissions page)</s>
