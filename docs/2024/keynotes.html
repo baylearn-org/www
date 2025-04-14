@@ -1,0 +1,364 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <!-- Required meta tags -->
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- External Javascript libs_ext  -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
+            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+
+    <script
+            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"
+    ></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"
+            integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js"
+            integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+            crossorigin="anonymous"></script>
+
+
+    <!-- Library libs_ext -->
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
+
+
+    <!--    Internal Libs -->
+    <script src="static/js/data/api.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+          crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+            href="static/css/Lato.css"
+            rel="stylesheet"
+    />
+    <link href="static/css/Exo.css" rel="stylesheet"/>
+    <link
+            href="static/css/Cuprum.css"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="static/css/main.css"/>
+<!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+
+    <title>BayLearn - Machine Learning Symposium - 2024: Keynotes</title>
+    
+</head>
+
+<body>
+<!-- NAV -->
+
+<nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src="static/images/baylearn-logo.jpg"
+                    height="auto"
+            width="180px"
+            />
+        </a>
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="schedule.html">Schedule</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="submissions.html">Submissions</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="keynotes.html">Keynotes</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="sponsors.html">Sponsors</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="code_of_conduct.html">Code of Conduct</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="privacy_policy.html">Privacy Policy</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="previous.html">Previous Years</a>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<!-- User Overrides -->
+ 
+
+<div class="container">
+    <!-- Tabs -->
+    <div class="tabs">
+         
+    </div>
+    <!-- Content -->
+    <div class="content">
+        
+
+<!-- Speakers -->
+<div class="border-top my-3"></div>
+<div class="row p-4" id="faq">
+  <div class="col-12 bd-content">
+    <h2 class="text-center">Speakers</h2>
+  </div>
+</div>
+<div class="speakers">
+  
+<div class="row p-4">
+  <div class="col-md-12">
+    <div class="card">
+      <div class="card-header">
+        <div class="row">
+          <div class="col-md-2 col-sm-5">
+            <a href="https://people.eecs.berkeley.edu/~nika/"><img src="static/images/speakers/nika.jpg"   width="100%" class="img-thumbnail" width="100%" class="img-thumbnail" /></a>
+          </div>
+          <div class="col-md-10 col-sm-6">
+            <div class="m-3 text-muted">
+              <h3>
+                <a href="https://youtu.be/AzA0w9a9rqk" class="main-title">
+                  Multi-objective Learning: A unified framework for robustness, fairness, and collaboration in ML <img src="static/images/yt_logo_mono_light.png" height="15px"/>
+                </a>
+              </h3>
+            </div>
+            <div class="m-3 text-muted">
+              <span class="card-title h3">
+               <a href="https://people.eecs.berkeley.edu/~nika/"> Nika Haghtalab </a> /  University of California, Berkeley
+              </span>
+            </div>
+            <p></p>
+            <div class="m-3">
+              Pervasive needs for robustness, multi-agent collaboration, and fairness have motivated the design of new methods in research and development. However, these methods remain largely stylized, lacking a foundational perspective and provable performance. In this talk, I will introduce and highlight the importance of multi-objective learning as a unifying paradigm for addressing these needs. This paradigm aims to optimize complex and unstructured objectives from only a small amount of sampled data. I will also discuss how the multi-objective learning paradigm relates to the classical and modern considerations in machine learning broadly, introduce technical tools with versatile provable guarantees, and empirical evidence for its performance on a range of important benchmarks.
+            </div>
+            <div class="m-3">
+              <b>Speaker Bio:</b> Nika Haghtalab is an Assistant Professor in the Department of Electrical Engineering and Computer Sciences at UC Berkeley. She works broadly on the theoretical aspects of machine learning and algorithmic economics. Prof. Haghtalab's work builds theoretical foundations for ensuring both the performance of learning algorithms in presence of everyday economic forces and the integrity of social and economic forces that are born out of the use of machine learning systems. She received her Ph.D. from the Computer Science Department of Carnegie Mellon University, where her thesis won the CMU School of Computer Science Dissertation Award (ACM nomination) and the SIGecom Dissertation Honorable Mention. She is a co-founder of Learning Theory Alliance (LeT-All), a large-scale mentoring and community building initiative for the theory of machine learning community. Among her honors are an Alfred P. Sloan fellowship, an NSF CAREER award, a Schmidt Science AI2050 fellowship, Google research scholars award, NeurIPS and ICAPS best paper awards, an EC exemplary in AI track award, and several industry awards and fellowships.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row p-4">
+  <div class="col-md-12">
+    <div class="card">
+      <div class="card-header">
+        <div class="row">
+          <div class="col-md-2 col-sm-5">
+            <a href="https://niloufar.org/"><img src="static/images/speakers/niloufar.jpg"   width="100%" class="img-thumbnail" width="100%" class="img-thumbnail" /></a>
+          </div>
+          <div class="col-md-10 col-sm-6">
+            <div class="m-3 text-muted">
+              <h3>
+                <a href="https://youtu.be/fU461PQN-D0" class="main-title">
+                  Panel Discussion: AI Alignment/Safety Research <img src="static/images/yt_logo_mono_light.png" height="15px"/>
+                </a>
+              </h3>
+            </div>
+            <div class="m-3 text-muted">
+              <span class="card-title h3">
+               <a href="https://niloufar.org/"> Niloufar Salehi </a> /  A reliable AI startup | UC Berkeley
+              </span>
+            </div>
+            <p></p>
+            <div class="m-3">
+              Stuart J Russell, Jascha Sohl-Dickstein, and Joaquin Quiñonero Candela will participate in a panel discussion on AI Alignment/Safety research. The discussion will be moderated by Niloufar Salehi
+            </div>
+            <div class="m-3">
+              <b>Speaker Bio:</b> Panelist Bios: To be added
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row p-4">
+  <div class="col-md-12">
+    <div class="card">
+      <div class="card-header">
+        <div class="row">
+          <div class="col-md-2 col-sm-5">
+            <a href="https://www.linkedin.com/in/dragomiranguelov/"><img src="static/images/speakers/drago.jpg"   width="100%" class="img-thumbnail" width="100%" class="img-thumbnail" /></a>
+          </div>
+          <div class="col-md-10 col-sm-6">
+            <div class="m-3 text-muted">
+              <h3>
+                <a href="https://youtu.be/W7KLcqnno_k" class="main-title">
+                  ML Recipes for Building a Scalable Autonomous Driving Agent <img src="static/images/yt_logo_mono_light.png" height="15px"/>
+                </a>
+              </h3>
+            </div>
+            <div class="m-3 text-muted">
+              <span class="card-title h3">
+               <a href="https://www.linkedin.com/in/dragomiranguelov/"> Drago Anguelov </a> /  Waymo
+              </span>
+            </div>
+            <p></p>
+            <div class="m-3">
+              Machine learning has proven to be a key ingredient in building a performant and scalable Autonomous Vehicle stack, spanning key capabilities such as perception, behavior prediction, planning and simulation. In this talk, I will describe recent Waymo research on performant ML models and architectures that help us handle the variety and complexity of the real world driving environment, and I will outline key remaining research challenges in our domain.
+            </div>
+            <div class="m-3">
+              <b>Speaker Bio:</b> Drago joined Waymo in 2018 to lead the Research team, which focuses on developing the state of the art in autonomous driving using machine learning and has contributed to many of the systems powering the company’s Waymo One service. Drago spent eight years at Google; first working on 3D vision and pose estimation for StreetView, and later leading a research team which developed computer vision systems for annotating Google Photos. The team also invented popular methods such as the Inception neural network architecture and the SSD detector, which helped win the Imagenet 2014 Classification and Detection challenges. Before Waymo, Drago led the 3D Perception team at Zoox.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row p-4">
+  <div class="col-md-12">
+    <div class="card">
+      <div class="card-header">
+        <div class="row">
+          <div class="col-md-2 col-sm-5">
+            <a href="https://www.socher.org/"><img src="static/images/speakers/richard.jpg"   width="100%" class="img-thumbnail" width="100%" class="img-thumbnail" /></a>
+          </div>
+          <div class="col-md-10 col-sm-6">
+            <div class="m-3 text-muted">
+              <h3>
+                <a href="https://youtu.be/mvQijqglnfo" class="main-title">
+                  Building Trusted AI with LLMs <img src="static/images/yt_logo_mono_light.png" height="15px"/>
+                </a>
+              </h3>
+            </div>
+            <div class="m-3 text-muted">
+              <span class="card-title h3">
+               <a href="https://www.socher.org/"> Richard Socher </a> /  You.com
+              </span>
+            </div>
+            <p></p>
+            <div class="m-3">
+              Richard Socher, CEO and founder of you.com and AIX Ventures, will discuss how building trust in AI is crucial yet often overlooked in the race for LLM advancement. Learn you.com's approach to tackling key challenges: inaccuracies, outdated information, and lack of transparency. Socher will review the technical pillars, including real-time web access, enhanced citation mechanisms, and a model-agnostic compound AI platform. Discover how these solutions improve LLM performance on complex tasks, build user trust, and pave the way for broader AI adoption. Gain insights into evaluating LLM effectiveness, deploying these practices into your own LLM projects, and the future of trustworthy AI. Q&A follows.
+            </div>
+            <div class="m-3">
+              <b>Speaker Bio:</b> Richard Socher is the founder and CEO of you.com. Richard previously served as the Chief Scientist and EVP at Salesforce. Before that, Richard was the CEO/CTO of AI startup MetaMind, acquired by Salesforce in 2016. Richard received his Ph.D. in computer science at Stanford. He is widely recognized as having brought neural networks into the field of natural language processing, inventing the most widely used word vectors, contextual vectors and prompt engineering. He has over 190,000 citations and served as an adjunct professor in the computer science department at Stanford.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+
+    </div>
+</div>
+
+
+
+<!-- Google Analytics -->
+<script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+  gtag("config", "UA-");
+</script>
+
+<!-- Footer -->
+<footer class="footer bg-light p-4">
+    <div class="container">
+        <p class="float-right"><a href="#">Back to Top</a></p>
+        <p class="text-center">© 2024 BayLearn Organization Committee</p>
+    </div>
+</footer>
+
+<!-- Code for hash tags -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    if (window.location.hash !== "") {
+      $(`a[href="${window.location.hash}"]`).tab("show");
+    }
+
+    $("a[data-toggle='tab']").on("shown.bs.tab", function (e) {
+      const hash = $(e.target).attr("href");
+      if (hash.substr(0, 1) === "#") {
+        const position = $(window).scrollTop();
+        window.location.replace(`#${hash.substr(1)}`);
+        $(window).scrollTop(position);
+      }
+    });
+  });
+</script>
+<!--    <script src="static/js/modules/lazyLoad.js"></script>-->
+
+</body>
+</html>

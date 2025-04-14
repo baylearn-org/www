@@ -2,20 +2,13 @@ The BayLearn Symposium aims at gathering scientists in machine learning from the
 
 We encourage the submission of poster abstracts. Acceptable material includes work which has already been submitted or published, preliminary results and controversial findings... All accepted abstracts will be presented as posters, a few will be selected for short oral presentations or lightning talks. We do not intend to publish proceedings, only abstracts will be shared through an online repository. Our primary goal is to foster discussion!
 
-### Videos from BayLearn 2024
-The YouTube Playlist for BayLearn 2024 can be found [here](https://www.youtube.com/playlist?list=PLP2fXYwxWOBLG5lvmmYVEWdDOt1QIzt2p).
+
 
 ### Venue
-BayLearn 2024 was hosted in person in at Apple, in Cupertino, CA. 
+BayLearn 2025 venue is to be decided.
 
 ### Key Dates
- * <s>Call for Abstract: June 12th, 2024 (see submissions page)</s>
- * <s>Abstract submission deadline—**Extended...Now**: Aug 5th, 2024 11:59pm PDT</s> 
- * <s>Acceptance notifications—**Updated Date**: Sep 16th, 2024</s>
- * <s>Registration Lottery: Now Open => **[Enter the Registration Lottery Now](https://baylearn2024.splashthat.com)**</s>
- * <s>Registration Lottery Closes: Oct 1, 2024</s>
- * <s>Registration Lottery Winners announced via e-mail: Oct 3, 2024</s>
- * BayLearn 2024 Symposium: Thu, Oct 10th 2024
+   *  coming soon...
 
 ### Mailing List
 Please join the [BayLearn Mailing List](https://list.baylearn.org/mailer/subscription?f=aK11NFcwFHDsqyg2KtuWT9EADnAgk1IC6JmBfVDyvslA1pA3IFZ0eb1CNHk3hiPbn9uo8h06Xpg9uJpNfDV7Eg&sa=D&sntz=1&usg=AFQjCNFY4nELZp_qKIPqOxRyfww6bTArnQ) for receiving symposium related announcements.
@@ -29,8 +22,10 @@ info at baylearn dot org
   * **Sudarshan Lamkhede**, Netflix Research <a href="https://www.linkedin.com/in/sudarshanlamkhede/"><img src="static/images/linkedin-logo.png" alt="Sudarshan's LinkedIn Profile" width="20" padding="5"/></a> <a href="https://twitter.com/__sudarshan__"><img src="static/images/twitter-logo-square.png" alt="Jerremy's Twitter" width="20" padding="5"/></a>
   * **Isabelle Guyon**, Google, ChaLearn, and U. Paris-Saclay <a href="https://www.linkedin.com/in/isabelle-guyon-aa371170/"><img src="static/images/linkedin-logo.png" alt="Isabelle's LinkedIn Profile" width="20" padding="5"/></a>
   * **Niloufar (Nilou) Salehi**, UC Berkeley <a href="https://www.linkedin.com/in/niloufar-salehi/"><img src="static/images/linkedin-logo.png" alt="Niloufar's LinkedIn Profile" width="20" padding="5"/></a> 
-  * **Dumitru Erhan**, Google <a href="https://www.linkedin.com/in/dumitruerhan/"><img src="static/images/linkedin-logo.png" alt="Dumitru's LinkedIn Profile" width="20" padding="5"/></a> <a href="https://twitter.com/doomie"><img src="static/images/twitter-logo-square.png" alt="Jerremy's Twitter" width="20" padding="5"/></a>
+  * **Leilani Gilpin**, UC Santa Cruz <a href="https://www.linkedin.com/in/leilanigilpin/"><img src="static/images/linkedin-logo.png" alt="Leilani's LinkedIn Profile" width="20" padding="5"/></a> 
+
 ### Program Committee
   * **Samy Bengio**, Apple <a href="https://www.linkedin.com/in/bengio/"><img src="static/images/linkedin-logo.png" alt="Samy's LinkedIn Profile" width="20" padding="5"/></a>
+  * **Dumitru Erhan**, Google <a href="https://www.linkedin.com/in/dumitruerhan/"><img src="static/images/linkedin-logo.png" alt="Dumitru's LinkedIn Profile" width="20" padding="5"/></a> <a href="https://twitter.com/doomie"><img src="static/images/twitter-logo-square.png" alt="Jerremy's Twitter" width="20" padding="5"/></a>
   * **Mohak Shah**, Praescivi Advisors <a href="https://www.linkedin.com/in/mohakshah1/"><img src="static/images/linkedin-logo.png" alt="Mohak's LinkedIn Profile" width="20" padding="5"/></a>
   * **Alice Xiang**, Partnership on AI <a href="https://www.linkedin.com/in/alice-xiang-3832aa18/"><img src="static/images/linkedin-logo.png" alt="Alice's LinkedIn Profile" width="20" padding="5"/></a> <a href="https://twitter.com/alicexiang"><img src="static/images/twitter-logo-square.png" alt="Alice's Twitter" width="20" padding="5"/></a>
