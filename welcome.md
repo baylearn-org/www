@@ -6,10 +6,10 @@ We encourage the submission of poster abstracts. Acceptable material includes wo
 BayLearn 2025 will be hosted at Santa Clara University and co-organized in partnership with the University of California, Santa Cruz.
 
 ### Key Dates
-   * Abtract submission - TBD
-   * Author notifications - TBD
-   * Reservation opens - TBD
-   * Symposium - Thu Oct 16th, 2025
+* **Abstract submission deadline**: Tuesday, July 29nd, 2025 at 11:59pm PDT
+* **Author notifications**: Friday, September 12th, 2025
+* **Reservation opens**: Monday, September 15th, 2025
+* **Symposium**: Thursday, Oct 16th, 2025
 
 ### Mailing List
 Please join the [BayLearn Mailing List](https://list.baylearn.org/mailer/subscription?f=aK11NFcwFHDsqyg2KtuWT9EADnAgk1IC6JmBfVDyvslA1pA3IFZ0eb1CNHk3hiPbn9uo8h06Xpg9uJpNfDV7Eg&sa=D&sntz=1&usg=AFQjCNFY4nELZp_qKIPqOxRyfww6bTArnQ) for receiving symposium related announcements.
