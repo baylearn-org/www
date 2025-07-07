@@ -2,6 +2,8 @@ The BayLearn Symposium aims at gathering scientists in machine learning from the
 
 We encourage the submission of poster abstracts. Acceptable material includes work which has already been submitted or published, preliminary results and controversial findings... All accepted abstracts will be presented as posters, a few will be selected for short oral presentations or lightning talks. We do not intend to publish proceedings, only abstracts will be shared through an online repository. Our primary goal is to foster discussion!
 
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+
 ### Venue
 BayLearn 2025 will be hosted at Santa Clara University and co-organized in partnership with the University of California, Santa Cruz.
 
