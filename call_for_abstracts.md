@@ -35,9 +35,9 @@ Feel free to circulate this invitation to your colleagues and relevant contacts.
 
 We encourage submission of abstracts. Acceptable material includes work which has already been submitted or published, preliminary results, and controversial findings. We do not intend to publish paper proceedings; only abstracts will be shared through an online repository. Our primary goal is to foster discussion!  For examples of previously accepted talks, please watch the paper presentations from previous BayLearn Symposiums: [https://baylearn.org/previous](https://baylearn.org/previous)
 
+#### Submit your abstracts via CMT: 
+[https://cmt3.research.microsoft.com/BAYLEARN2025](https://cmt3.research.microsoft.com/BAYLEARN2025)
 
-### Submit your abstracts via CMT: LINK COMING SOON! 
-
-
+Note: The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
 
