@@ -8,11 +8,11 @@ Note: BayLearn 2025 will **not** be a hybrid event, and it will **not be live-st
 
 The BayLearn 2025 abstract submission site is now open for submissions:
 
-[https://baylearn.org/submissions](https://baylearn.org/submissions)
+* Submit via [Microsoft CMT](https://cmt3.research.microsoft.com/BAYLEARN2025)
 
 The abstract submission deadline is Tuesday, July 29nd, 2025, 11:59pm PDT.
 
-Please submit abstracts as a 2-page pdf in NeurIPS format. An extra page for acknowledgements and references is allowed.
+Please submit abstracts as a 2-page pdf in [NeurIPS 2023 format](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles). An extra page for acknowledgements and references is allowed.
 
 
 ### About BayLearn
