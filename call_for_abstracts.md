@@ -10,7 +10,7 @@ The BayLearn 2025 abstract submission site is now open for submissions:
 
 * Submit via [Microsoft CMT](https://cmt3.research.microsoft.com/BAYLEARN2025)
 
-The abstract submission deadline is Tuesday, July 29nd, 2025, 11:59pm PDT.
+The abstract submission deadline has been extended to Tuesday, Aug 5th, 2025, 11:59pm PDT.
 
 Please submit abstracts as a 2-page pdf in [NeurIPS 2023 format](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles). An extra page for acknowledgements and references is allowed.
 
@@ -26,7 +26,7 @@ Meet with fellow Bay Area machine learning researchers and scientists during the
 Feel free to circulate this invitation to your colleagues and relevant contacts.
 
 ### Key Dates
-* **Abstract submission deadline**: Tuesday, July 29nd, 2025 at 11:59pm PDT
+* **Abstract submission deadline (Deadline Extended)**: Tuesday, Aug 5th, 2025 at 11:59pm PDT
 * **Author notifications**: Friday, September 12th, 2025
 * **Reservation opens**: Monday, September 15th, 2025
 * **Symposium**: Thursday, Oct 16th, 2025
