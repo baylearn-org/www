@@ -9,8 +9,8 @@ BayLearn 2025 will be hosted at Santa Clara University and co-organized in partn
 
 ### Key Dates
 * **Abstract submission deadline (Deadline Extended)**: Tuesday, Aug 5th, 2025 at 11:59pm PDT
-* **Author notifications**: Friday, September 12th, 2025
-* **Reservation opens**: Monday, September 15th, 2025
+* **Author notifications (New Date) **: Friday, September 19th, 2025
+* **Registration Lottery opens (New Date) **: Friday, September 19th, 2025
 * **Symposium**: Thursday, Oct 16th, 2025
 
 ### Mailing List
