@@ -1,5 +1,5 @@
 UID,image,title,speaker,institution,talk_title,talk_abstract,bio,session,homepage,video_url
-1,"static/images/speakers/Chris_Manning.png","","Christopher Manning", "Stanford University","","","","","",""
-2,"static/images/speakers/niloufar.jpg","","Nilou Salehi", "Across.AI","","","","","",""
-3,"static/images/speakers/Ronan_Collobert.png","","Ronan Collobert", "Apple","","","","","",""
-4,"static/images/speakers/Bryan_Catanzaro.png","","Bryan Catanzaro", "NVIDIA","","","","","",""
+1,"static/images/speakers/Chris_Manning.png"," ","Christopher Manning", "Stanford University","","","","","",""
+2,"static/images/speakers/Nilou_Salehi.png"," ","Nilou Salehi", "Across.AI","Panel Discussion: Agentic AI","Diyi Yang from Stanford, Sandeep Uttamchandani from PA Networks, Rama Akkiraju from NVIDIA, and Ed H. Chi from Google DeepMind will participate in a panel discussion on ahentic AI. The discussion will be moderated by Nilou Salehi","","","",""
+3,"static/images/speakers/Ronan_Collobert.png"," ","Ronan Collobert", "Apple","","","","","",""
+4,"static/images/speakers/Bryan_Catanzaro.png"," ","Bryan Catanzaro", "NVIDIA","","","","","",""
