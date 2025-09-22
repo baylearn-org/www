@@ -1,1 +1,5 @@
 UID,image,title,speaker,institution,talk_title,talk_abstract,bio,session,homepage,video_url
+1,"static/images/speakers/Chris_Manning.png","","Christopher Manning", "Stanford University","","","","","",""
+2,"static/images/speakers/niloufar.jpg","","Nilou Salehi", "Across.AI","","","","","",""
+3,"static/images/speakers/Ronan_Collobert.png","","Ronan Collobert", "Apple","","","","","",""
+4,"static/images/speakers/Bryan_Catanzaro.png","","Bryan Catanzaro", "NVIDIA","","","","","",""
