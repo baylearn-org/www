@@ -6,6 +6,7 @@ import json
 import os
 
 import yaml
+import markdown as md
 from flask import Flask, jsonify, redirect, render_template, send_from_directory
 from flask_frozen import Freezer
 from flaskext.markdown import Markdown
@@ -77,7 +78,7 @@ def home():
 @app.route("/schedule.html")
 def schedule():
     data = _data()
-    data["schedule"] = open("schedule.md").read()
+    data["schedule"] = md.markdown(open("schedule.md").read(), output_format="html5", extensions=['tables'])
     return render_template("schedule.html", **data)
 
 @app.route("/previous.html")
