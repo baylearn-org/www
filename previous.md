@@ -1,5 +1,6 @@
 BayLearn is being held every year since 2012.
 
+* BayLearn [2025](2025/index.html) at Santa Clara University.
 * BayLearn [2024](2024/index.html) at Apple Inc.
 * BayLearn [2023](2023/index.html) at Block (formerly Square)
 * BayLearn [2022](2022/index.html) at Genentech

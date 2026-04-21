@@ -13,10 +13,14 @@ committee:
     tw: __sudarshan__
     im: https://drive.google.com/file/d/1VKH5Dljm9lYR8uOhEdVmyo-fHVe7QFE1/view?usp=sharing
   - role: Organizer
+    name: Lailani Gilpin
+    aff: UCSC
+    im: 
+  - role: Advisor
     name: Dumitru Erhan
     aff: Google Brain
     tw: doomie
-  - role: Organizer
+  - role: Advisor
     name: Isabelle Guyon
     aff: ChaLearn and U. Paris-Saclay
     tw: BayLearnOrg
