@@ -1,7 +1,7 @@
 # Event Schedule
 ### Venue
-To be decided
+Santa Clara, CA
 
 ### Key Dates
-To be announced ...
+Symposium: Oct 15, 2026
 

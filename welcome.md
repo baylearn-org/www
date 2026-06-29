@@ -5,10 +5,10 @@ We encourage the submission of poster abstracts. Acceptable material includes wo
 Note: The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
 ### Venue
-To be decided
+Santa Clara, CA
 
 ### Key Dates
-To be decided 
+Symposium: Thu, Oct 15, 2026
 
 ### Mailing List
 Please join the [BayLearn Mailing List](https://list.baylearn.org/mailer/subscription?f=aK11NFcwFHDsqyg2KtuWT9EADnAgk1IC6JmBfVDyvslA1pA3IFZ0eb1CNHk3hiPbn9uo8h06Xpg9uJpNfDV7Eg&sa=D&sntz=1&usg=AFQjCNFY4nELZp_qKIPqOxRyfww6bTArnQ) for receiving symposium related announcements.
