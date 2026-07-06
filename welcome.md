@@ -8,7 +8,10 @@ Note: The Microsoft CMT service was used for managing the peer-reviewing process
 Santa Clara, CA
 
 ### Key Dates
-Symposium: Thu, Oct 15, 2026
+* Abstract submission deadline: Thu, Jul 30, 2026 at 11:59pm PDT
+* Author notifications: Mon, Sep 14th, 2026
+* Registration Lottery opens: Tue, Sep 15th, 2026
+* Symposium: Thu, Oct 15th, 2026
 
 ### Mailing List
 Please join the [BayLearn Mailing List](https://list.baylearn.org/mailer/subscription?f=aK11NFcwFHDsqyg2KtuWT9EADnAgk1IC6JmBfVDyvslA1pA3IFZ0eb1CNHk3hiPbn9uo8h06Xpg9uJpNfDV7Eg&sa=D&sntz=1&usg=AFQjCNFY4nELZp_qKIPqOxRyfww6bTArnQ) for receiving symposium related announcements.
