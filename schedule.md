@@ -1,6 +1,6 @@
 # Event Schedule
 ### Venue
-Santa Clara, CA
+BayLearn 2026 will be hosted at Santa Clara University (Santa Clara, CA) and co-organized with San José State University, UC Berkeley, and UC Santa Cruz. 
 
 ### Key Dates
 * Updated Abstract submission deadline: Thu, Aug 6th, 2026 at 11:59pm PDT

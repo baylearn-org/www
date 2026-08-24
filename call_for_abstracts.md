@@ -2,7 +2,7 @@
 
 BayLearn 2026 will be an in-person event, held on Thursday, October 15th, 2026.
 
-BayLearn 2026 will be hosted at Santa Clara University and co-organized in partnership with the University of California, Santa Cruz.
+BayLearn 2026 will be hosted at Santa Clara University (Santa Clara, CA) and co-organized with San José State University, UC Berkeley, and UC Santa Cruz. 
 
 *Note:* BayLearn 2026 will *not* be a hybrid event, and it will *not* be live-streamed.
 
