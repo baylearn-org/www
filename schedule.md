@@ -90,7 +90,7 @@ BayLearn 2026 will be hosted at Santa Clara University (Santa Clara, CA) and co-
     <td><i>Panel Discussion</i></td>
     <td>
       <b>Topic: AI for Science</b><br>
-      Niloufar Salehi (moderator), Jure Leskovec, Behnam Neyshabur, and Zhenghao Chen
+      Moderator: Niloufar Salehi. Panelists: Jure Leskovec (Professor at Stanford University); Siddharth Mishra-Sharma (MTS at Anthropic); Zhenghao Chen (VP of AI/ML at Insitro)
     </td>
   </tr>
   <tr>
