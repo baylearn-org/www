@@ -64,7 +64,7 @@ BayLearn 2026 will be hosted at Santa Clara University (Santa Clara, CA) and co-
   <tr>
     <td>11:00 – 11:45 am</td>
     <td><i>Keynote #2</i></td>
-    <td><b>Andrew Ng: Talk Title Coming Soon</b></td>
+    <td><b>Andrew Ng: AI Engineering Skills for Researchers</b></td>
   </tr>
   <tr>
     <td>11:45 am – 12:00 pm</td>
@@ -96,7 +96,7 @@ BayLearn 2026 will be hosted at Santa Clara University (Santa Clara, CA) and co-
   <tr>
     <td>2:15 – 3:00 pm</td>
     <td><i>Keynote #3</i></td>
-    <td><b>Azalia Mirhoseini: Talk Title Coming Soon</b></td>
+    <td><b>Azalia Mirhoseini: Maximizing Intelligence per Dollar: From Tokens to Chips</b></td>
   </tr>
   <tr class="break">
     <td>3:00 – 3:30 pm</td>
