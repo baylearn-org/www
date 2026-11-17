@@ -35,7 +35,7 @@ BayLearn 2026 will be hosted at Santa Clara University (Santa Clara, CA) and co-
     <td>9:00 – 9:10 am</td>
     <td><i>Welcome to BayLearn 2026</i></td>
     <td>Jerremy Holland &amp; Fellow Organizers</td>
-    <td><a HREF="https://youtu.be/e_mjUnQZbi0?si=hOaxigmqZUpUxR68">YouTube video</a></td>
+    <td><a HREF="https://youtu.be/e_mjUnQZbi0?si=hOaxigmqZUpUxR68">Video</a></td>
   </tr>
   <tr>
     <td>9:10 – 9:30 am</td>
@@ -46,19 +46,19 @@ BayLearn 2026 will be hosted at Santa Clara University (Santa Clara, CA) and co-
       <b>tbd (UC Berkeley)</b><br>
       <b>Associate Dean Xiao Su (SJSU)</b>
     </td>
-    <td><a HREF="https://youtu.be/F38SL0hNL9U?si=MZWSBNJ78dsecMBE">YouTube video</a></td>
+    <td><a HREF="https://youtu.be/F38SL0hNL9U?si=MZWSBNJ78dsecMBE">Video</a></td>
   </tr>
   <tr>
     <td>9:30 – 10:15 am</td>
     <td><i>Keynote #1</i></td>
     <td><b>Ion Stoica: Reality Is the Final Verifier: On Two Key Gaps in Agentic Software Engineering</b></td>
-    <td><a HREF="https://youtu.be/TsOqBSBi8L8?si=10tGgNSLUl_WnH0b">YouTube video</a></td>
+    <td><a HREF="https://youtu.be/TsOqBSBi8L8?si=10tGgNSLUl_WnH0b">Video</a></td>
   </tr>
   <tr>
     <td>10:15 – 10:30 am</td>
     <td><i>Oral Presentation 1</i></td>
     <td>Submission #46: Information-Theoretic Analysis of Vision Transformers: Preliminary Results</td>
-    <td><a HREF="https://youtu.be/UxqKoeosoAQ?si=EuSFh2X1KzgjydRi">YouTube video</a></td>
+    <td><a HREF="https://youtu.be/UxqKoeosoAQ?si=EuSFh2X1KzgjydRi">Video</a></td>
   </tr>
   <tr class="break">
     <td>10:30 – 11:00 am</td>
@@ -69,19 +69,19 @@ BayLearn 2026 will be hosted at Santa Clara University (Santa Clara, CA) and co-
     <td>11:00 – 11:45 am</td>
     <td><i>Keynote #2</i></td>
     <td><b>Andrew Ng: AI Engineering Skills for Researchers</b></td>
-    <td><a HREF="https://youtu.be/VqpRapfaILA?si=LqNA6DH5UhKH2U5r">video</a></td>
+    <td><a HREF="https://youtu.be/VqpRapfaILA?si=LqNA6DH5UhKH2U5r">Video</a></td>
   </tr>
   <tr>
     <td>11:45 am – 12:00 pm</td>
     <td><i>Oral Presentation 2</i></td>
     <td>Submission #26: Neuro-symbolic Policy Iteration for Computer Agents</td>
-    <td><a HREF="https://youtu.be/roH_RXin36M?si=C82WptJphLDsezs4">YouTube video</a></td>
+    <td><a HREF="https://youtu.be/roH_RXin36M?si=C82WptJphLDsezs4">Video</a></td>
   </tr>
   <tr>
     <td>12:00 – 12:15 pm</td>
     <td><i>Oral Presentation 3</i></td>
     <td>Submission #56: PRISM: Predictive KV Cache Discovery for Agentic LLM Serving at Internet Scale</td>
-    <td><a HREF="https://youtu.be/roH_RXin36M?list=PLT2guN50ndhM&t=820">YouTube video</a></td>
+    <td><a HREF="https://youtu.be/roH_RXin36M?list=PLT2guN50ndhM&t=820">Video</a></td>
   </tr>
   <tr class="break">
     <td>12:15 – 1:30 pm</td>
@@ -99,13 +99,13 @@ BayLearn 2026 will be hosted at Santa Clara University (Santa Clara, CA) and co-
       <b>Topic: AI for Scientific Discovery</b><br>
       Moderator: Niloufar Salehi. Panelists: Jure Leskovec (Professor at Stanford University); Siddharth Mishra-Sharma (MTS at Anthropic); Zhenghao Chen (VP of AI/ML at Insitro)
     </td>
-    <td><a HREF="https://youtu.be/DZslbOQQ1wg?si=TFqNhqKbBlghPEoI">YouTube video</a></td>
+    <td><a HREF="https://youtu.be/DZslbOQQ1wg?si=TFqNhqKbBlghPEoI">Video</a></td>
   </tr>
   <tr>
     <td>2:15 – 3:00 pm</td>
     <td><i>Keynote #3</i></td>
     <td><b>Azalia Mirhoseini: Maximizing Intelligence per Dollar: From Tokens to Chips</b></td>
-    <td><a HREF="https://youtu.be/2pI_jiqpGBs?si=atJwjxU9Ttqldgrx">YouTube video</a></td>
+    <td><a HREF="https://youtu.be/2pI_jiqpGBs?si=atJwjxU9Ttqldgrx">Video</a></td>
   </tr>
   <tr class="break">
     <td>3:00 – 3:30 pm</td>
@@ -116,25 +116,25 @@ BayLearn 2026 will be hosted at Santa Clara University (Santa Clara, CA) and co-
     <td>3:30 – 3:45 pm</td>
     <td><i>Oral Presentation 4</i></td>
     <td>Submission #62: Let Them Sleep: Recursive Self-Pruning Memory for Long-Horizon LLM Agents</td>
-    <td><a HREF="https://youtu.be/tZsaqFiWTJ0?si=sns8DuF-lgLX5IM9">YouTube video</a></td>
+    <td><a HREF="https://youtu.be/tZsaqFiWTJ0?si=sns8DuF-lgLX5IM9">Video</a></td>
   </tr>
   <tr>
     <td>3:45 – 4:00 pm</td>
     <td><i>Oral Presentation 5</i></td>
     <td>Submission #106: Drop the Act: Probe-Filtered RL for Faithful Chain-of-Thought Reasoning</td>
-    <td><a HREF="https://youtu.be/tZsaqFiWTJ0?list=PLT2guN50ndhM&t=878">YouTube video</a></td>
+    <td><a HREF="https://youtu.be/tZsaqFiWTJ0?list=PLT2guN50ndhM&t=878">Video</a></td>
   </tr>
   <tr>
     <td>4:00 – 4:15 pm</td>
     <td><i>Oral Presentation 6</i></td>
     <td>Submission #107: Blind Deference: A Diagnostic Benchmark and Vulnerability Index for Authority-Driven Sycophancy in LLMs</td>
-    <td><a HREF="https://youtu.be/tZsaqFiWTJ0?list=PLT2guN50ndhM&t=1672">YouTube video</a></td>
+    <td><a HREF="https://youtu.be/tZsaqFiWTJ0?list=PLT2guN50ndhM&t=1672">Video</a></td>
   </tr>
   <tr>
     <td>4:15 – 4:30 pm</td>
     <td><i>Oral Presentation 7</i></td>
     <td>Submission #120: Supervision-Efficient Robot Learning in Deployment</td>
-    <td><a HREF="https://youtu.be/tZsaqFiWTJ0?list=PLT2guN50ndhM&t=2588">YouTube video</a></td>
+    <td><a HREF="https://youtu.be/tZsaqFiWTJ0?list=PLT2guN50ndhM&t=2588">Video</a></td>
   </tr>
   <tr class="break">
     <td>4:30 pm</td>
